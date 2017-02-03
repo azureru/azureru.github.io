@@ -1,0 +1,2 @@
+# azureru.github.io
+Init
